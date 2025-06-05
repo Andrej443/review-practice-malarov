@@ -9,4 +9,8 @@ public class main {
     public static int sumNumbers (int a, int b) {
         return a + b;
     }
+
+    public String addStrs (String a, String b) {
+        return a + " " + b;
+    }
 }
